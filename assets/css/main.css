@@ -371,6 +371,18 @@ body {
     }
 }
 
+@media (max-width: 567.98px){
+    .section-two .inner-box .inner-list li {
+        padding: 20px 30px;
+        margin-right: 10px;
+    }
+    
+    .section-two .inner-box .inner-list li i {
+        font-size: 1.5rem;
+        color: #ff8484;
+    }
+}
+
 /* End section two */
 
 /* Section three */
